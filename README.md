@@ -1,51 +1,113 @@
 # Gadeela_shravinya
-<!-- Banner -->
+<!-- 
+✨ Customize your project links, LinkedIn, and add/remove certifications as needed.
+✨ Add/change project repo URLs.
+✨ Update achievements as your journey grows!
+-->
+
+<h1 align="center">Hi 👋, I'm Gadeela Shravinya</h1>
+<h3 align="center">Aspiring ML Engineer | AI Research Intern | Python & Data Science Enthusiast</h3>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=30&color=FF6F61&center=true&vCenter=true&width=600&lines=Hello!+I'm+Gadeela+Shravinya;AI+|+ML+|+Web+|+Innovator" alt="Typing SVG"/>
+  <img src="https://komarev.com/ghpvc/?username=shravinya&label=Profile%20views&color=0e75b6&style=flat" alt="shravinya" />
+  <img alt="GitHub followers" src="https://img.shields.io/github/followers/shravinya?style=social">
 </p>
 
 ---
 
-### 👋 Hi there! I'm Shravinya — a pre-final‑year CSE student (AI/ML) at Woxsen University  
-Based in Hyderabad, India — passionate about solving real‑world problems with intelligent systems :contentReference[oaicite:2]{index=2}
+## 🎯 About Me
+
+- 🔭 Research Intern @ **NIT Warangal**: Working on **DDPG RL for SFC Optimization**
+- 🌱 Learning: **LangChain, LLMs, RL, XAI**
+- 🤝 Open to collaborating on **ML, Data Science, Healthcare AI**
+- 📫 Reach me: **shravinyagoud@gmail.com**
 
 ---
 
-## ⚙️ GitHub Stats & Languages
-<!-- GitHub Profile Stats Card -->
-[![Shravinya's GitHub stats](https://github-readme-stats.vercel.app/api?username=GadeelaShravinya&show_icons=true&theme=radical)](https://github.com/GadeelaShravinya)
+## 🎓 Education
 
-<!-- Top Languages Chart -->
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GadeelaShravinya&layout=compact&theme=radical)](https://github.com/GadeelaShravinya)
+- **B.Tech in CSE - AIML**, Woxsen University (2022–2026) — *CGPA: 3.55/4.0*
+- **Intermediate**, Vignan Junior College (2020–2022) — *95%*
 
 ---
 
-## 🚀 Key Highlights
-| Project | Highlights |
-|---|---|
-| **Adaptive Sorting Optimizer** | ML-powered Flask app on GCP, predicting optimal sort/search algorithms with 92% accuracy |
-| **PCOS Detection (CNN + Transfer Learning)** | Achieved 93.8% accuracy using VGG-16 & NASNet-Mobile with Grad-CAM explainability |
-| **LLM Life Coach** | Privacy-first AI chatbot built on LangChain & Ollama in Streamlit |
+## 💼 Experience
+
+**Research Intern @ NIT Warangal**  
+_May 2024 – July 2024_  
+- Implemented DDPG for SFC optimization  
+- Developed research flowcharts & modular ML code
 
 ---
 
-## 🔭 Latest LinkedIn Updates  
-- 🛠️ Built an AI-Powered Chat Assistant with **DeepSeek** using LangChain & Streamlit :contentReference[oaicite:3]{index=3}  
-- Presented my poster on **Evolution of Deep Learning** highlighting milestones like CNNs, RNNs & GANs :contentReference[oaicite:4]{index=4}  
-- Volunteered at a 24-hour hackathon—immersed in innovation and teamwork! :contentReference[oaicite:5]{index=5}
+## 💻 Tech Stack
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white"/>
+</p>
 
 ---
 
-## 🎯 Certifications & Achievements
-- Certified in Machine Learning with Python (NIT Warangal), Deep Learning (deeplearning.ai), Python Crash Course (Google), and AWS Data Engineer  
-- Winner, NASA Space Apps Challenge (“Galactic Problem Solver”)  
-- Finalist—Flipkart GRiD 6.0 (E-commerce Innovation)  
-- Presented “Smart Glasses Revolutionizing Migraine Care” at ICICCD‑2024
+## 🚀 Projects
+
+- 🔹 [**Adaptive Sorting Optimizer**](https://github.com/username/adaptive-sorting-optimizer) — ML-powered sorting optimization  
+- 🔹 [**PCOS Detection using CNNs**](https://github.com/username/pcos-detection) — AI for medical image classification  
+- 🔹 [**LLM-Powered Life Coach**](https://github.com/username/llm-life-coach) — Emotion-aware Streamlit chatbot
 
 ---
 
-## 🌱 Currently Learning
-```text
-React.js • Next.js • Responsive Web Design
-Node.js • Express • RESTful APIs
-Generative AI • Chatbots • LLM-Based Applications
+## 🧠 Certifications
+
+- Machine Learning for Data Science (NIT)
+- Python Crash Course (Google)
+- Deep Learning Specialization (deeplearning.ai)
+
+---
+
+## 🏆 Achievements
+
+- 🧩 136+ problems solved on Coding Ninjas Code360
+- 🥇 Finalist - SIP Poster Competition at Woxsen
+- 📄 Published at ICICCD-2024: _"Smart Glasses for Migraine Care"_
+
+---
+
+## 🤝 Volunteering & Leadership
+
+- 👩‍⚕️ Coordinated 150+ attendee health camp at Gollapally
+- 💡 Volunteered at UDGAM Hackathon, Woxsen
+- 💻 Participant - HackSavvy, Amazon ML Challenge
+
+---
+
+## 📊 Most Used Languages (Visual)
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Jupyter_Notebook-97%25-orange?logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-2.7%25-blue?logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-0.2%25-yellow?logo=javascript&logoColor=black"/>
+</p>
+
+---
+
+## 🔗 Connect With Me
+
+<p align="center">
+  <a href="mailto:shravinyagoud@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/shravinyagadeela/"><img src="https://img.shields.io/badge/LinkedIn-2A65BC?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/shravinya"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/LinkedIn_Connections-500%2B-blue?style=flat&logo=linkedin" alt="LinkedIn Connections"/>
+</p>
+
+---
+
+<!-- 
+💡 Tip: Add a fun fact, motto, or personal touch at the end!
+-->
