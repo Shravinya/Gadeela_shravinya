@@ -10,7 +10,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shravinya&label=Profile%20views&color=0e75b6&style=flat" alt="shravinya" />
-  <img alt="GitHub followers" src="https://img.shields.io/github/followers/shravinya?style=social">
+ 
 </p>
 
 ---
@@ -87,7 +87,7 @@ _May 2024 – July 2024_
 
 ---
 
-## 📊 Most Used Languages (Visual)
+## 📊 Most Used Languages 
 
 <p align="center">
   <img src="https://img.shields.io/badge/Jupyter_Notebook-97%25-orange?logo=jupyter&logoColor=white"/>
