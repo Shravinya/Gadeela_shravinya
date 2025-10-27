@@ -6,34 +6,44 @@
 -->
 
 <h1 align="center">Hi 👋, I'm Gadeela Shravinya</h1>
-<h3 align="center">Aspiring ML Engineer | AI Research Intern | Python & Data Science Enthusiast</h3>
-
-
+<h3 align="center">Aspiring AI/ML Engineer | Research Intern | LLM & RAG Developer</h3>
 
 ---
 
 ## 🎯 About Me
 
-- 🔭 Research Intern @ **NIT Warangal**: Working on **DDPG RL for SFC Optimization**
-- 🌱 Learning: **LangChain, LLMs, RL, XAI**
-- 🤝 Open to collaborating on **ML, Data Science, Healthcare AI**
+- 🎓 Final-year **B.Tech CSE (AIML)** student at **Woxsen University**
+- 💼 **AI/ML Engineer Intern @ Avijo** — building scalable AI systems for personalized healthcare  
+- 🔬 **Research Intern @ NIT Warangal** — implemented **DDPG RL** for SFC optimization  
+- ⚙️ Experienced in developing **Agentic RAG Systems, LLM Apps, and MLOps Deployments**
+- 🌱 Currently exploring: **LangChain, RAG Pipelines, Transformers, and Agentic AI**
 - 📫 Reach me: **shravinyagoud@gmail.com**
 
 ---
 
 ## 🎓 Education
 
-- **B.Tech in CSE - AIML**, Woxsen University (2022–2026) — *CGPA: 3.55/4.0*
+- **B.Tech in CSE - AIML**, Woxsen University (2022–2026) — *CGPA: 3.55/4.0*  
 - **Intermediate**, Vignan Junior College (2020–2022) — *95%*
 
 ---
 
 ## 💼 Experience
 
-**Research Intern @ NIT Warangal**  
-_May 2024 – July 2024_  
-- Implemented DDPG for SFC optimization  
-- Developed research flowcharts & modular ML code
+**AI/ML Engineer Intern – Avijo (Startup, Remote | Ongoing)**  
+_Tech Stack: TensorFlow, PyTorch, LangChain, Hugging Face_  
+- Designed **AI/ML & NLP pipelines** for personalized health guidance.  
+- Delivered scalable and compliant AI solutions for real-world healthcare applications.  
+
+**Infosys Internship (Remote | Ongoing)**  
+_Tech Stack: Python, TensorFlow, Scikit-learn, Flask_  
+- Worked on **enterprise-scale AI/ML systems**, focusing on deployment and scalability.  
+- Implemented **production-ready AI workflows** following software engineering best practices.  
+
+**Research Intern – NIT Warangal (May 2024 – July 2024)**  
+_Tech Stack: Python, TensorFlow, NumPy, OpenAI Gym_  
+- Implemented **actor–critic (DDPG)** models for SFC deployment and optimization.  
+- Designed modular RL workflows and documented research processes for reproducibility.  
 
 ---
 
@@ -42,45 +52,62 @@ _May 2024 – July 2024_
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-121212?style=flat&logo=chainlink&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black"/>
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white"/>
 </p>
 
 ---
 
 ## 🚀 Projects
 
-- 🔹 [**Adaptive Sorting Optimizer**](https://github.com/username/adaptive-sorting-optimizer) — ML-powered sorting optimization  
-- 🔹 [**PCOS Detection using CNNs**](https://github.com/username/pcos-detection) — AI for medical image classification  
-- 🔹 [**LLM-Powered Life Coach**](https://github.com/username/llm-life-coach) — Emotion-aware Streamlit chatbot
+- 🔹 [**Agentic RAG-based Bank Form Intelligence System**](https://github.com/Shravinya/Agentic-Rag)  
+  *Python • LangChain • LLaMA • Vision AI • FAISS • Streamlit • Docker • CI/CD*  
+  - Built an **Agentic RAG pipeline** to autonomously extract and validate 67+ bank forms.  
+  - Integrated **Vision AI + LLMs** for real-time policy compliance and scalable deployment.  
+
+- 🔹 [**Intelligent Algorithm Recommender & Optimizer**](https://github.com/Shravinya/Applicative)  
+  *Python • Scikit-learn • TensorFlow • Flask • Docker*  
+  - Developed a model achieving **92% accuracy** in predicting optimal sorting algorithms.  
+  - Deployed interactive **Flask dashboard** with adaptive optimization visualization.  
+
+- 🔹 [**BudgetWise: AI-based Expense Forecasting Tool**](https://github.com/Shravinya/BudgetWise-AI-based-Expense-Forecasting-Tool)  
+  - Designed a forecasting model for **financial planning and expense optimization**.  
+
+- 🔹 [**Reinforcement Learning: DDPG for SFC Optimization**](https://github.com/Shravinya/Reinforcement-learning)  
+  - Implemented **Deep Deterministic Policy Gradient (DDPG)** models for network optimization.  
 
 ---
 
 ## 🧠 Certifications
 
-- Machine Learning for Data Science (NIT)
-- Python Crash Course (Google)
-- Deep Learning Specialization (deeplearning.ai)
+- 🧩 [Machine Learning for Data Science (NIT)](https://github.com/Shravinya/Certifications/blob/main/NIT%20workshop_Certificate.pdf)  
+- 🐍 [Python Crash Course (Google)](https://github.com/Shravinya/Certifications/blob/main/python%20coursera%20certificate.pdf)  
+- 🤖 [Deep Learning Specialization (deeplearning.ai)](https://github.com/Shravinya/Certifications/blob/main/deeplearning_cetificate.pdf)  
 
 ---
 
 ## 🏆 Achievements
 
-- 🧩 136+ problems solved on Coding Ninjas Code360
-- 🥇 Finalist - SIP Poster Competition at Woxsen
-- 📄 Published at ICICCD-2024: _"Smart Glasses for Migraine Care"_
+- 📰 Published paper — *“XAI-enabled Deep Learning for PCOS Detection”* at **IEEE (2025)**  
+- 🥇 Ranked among **Top 50 (National Level)** in StudentTribe Hackathon for *“Wealth Map”*  
+- 🧠 Solved **136+ DSA problems** on Coding Ninjas Code360  
+- 🏅 Finalist - SIP Poster Competition, Woxsen  
+- 💪 Contributor - **GirlScript Summer of Code (GSSoC 2025)**  
 
 ---
 
 ## 🤝 Volunteering & Leadership
 
-- 👩‍⚕️ Coordinated 150+ attendee health camp at Gollapally
-- 💡 Volunteered at UDGAM Hackathon, Woxsen
-- 💻 Participant - HackSavvy, Amazon ML Challenge
+- 👩‍⚕️ Led **community health camp** for 150+ individuals under Societal Internship Project  
+- 💡 Participant – HackSavvy (MGIT), Amazon ML Challenge, Google Girl Hackathon  
+- 🌍 Volunteer – **Woxsen Community Development Initiatives**  
 
 ---
 
