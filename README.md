@@ -5,18 +5,26 @@
 ✨ Update achievements as your journey grows!
 -->
 
-<h1 align="center">Hi 👋, I'm Gadeela Shravinya</h1>
-<h3 align="center">Aspiring AI/ML Engineer | Research Intern | LLM & RAG Developer</h3>
+<h1 align="center">Hi 👋, I'm <span style="color:#4e9af1;">Gadeela Shravinya</span></h1>
+
+<h3 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=25&duration=3000&pause=1000&color=00C6FF&center=true&vCenter=true&width=650&lines=Aspiring+AI%2FML+Engineer;AI+Research+Intern;RAG+%26+LLM+Developer;Deep+Learning+%26+MLOps+Enthusiast;Passionate+about+AI+for+Healthcare">
+  </a>
+</h3>
 
 ---
 
-## 🎯 About Me
+## 🎯 About Me  
 
-- 🎓 Final-year **B.Tech CSE (AIML)** student at **Woxsen University**
-- 💼 **AI/ML Engineer Intern @ Avijo** — building scalable AI systems for personalized healthcare  
-- 🔬 **Research Intern @ NIT Warangal** — implemented **DDPG RL** for SFC optimization  
-- ⚙️ Experienced in developing **Agentic RAG Systems, LLM Apps, and MLOps Deployments**
-- 🌱 Currently exploring: **LangChain, RAG Pipelines, Transformers, and Agentic AI**
+💡 “Turning code into intelligence — and intelligence into impact.”  
+
+- 🎓 Final-year **B.Tech CSE (AIML)** student at **Woxsen University**  
+- 💼 **AI/ML Engineer Intern @ Avijo** — Building scalable, intelligent health systems  
+- 🔬 **Research Intern @ NIT Warangal** — Implemented **DDPG RL** for network optimization  
+- ⚙️ Experienced in **Agentic RAG Systems, LLM Apps, and MLOps Deployments**  
+- 🌱 Exploring **LangChain, Transformers, RAG Pipelines, and Agentic AI**  
+- 🚀 Dream: To design human-centered AI that transforms healthcare and automation  
 - 📫 Reach me: **shravinyagoud@gmail.com**
 
 ---
@@ -33,34 +41,24 @@
 **AI/ML Engineer Intern – Avijo (Startup, Remote | Ongoing)**  
 _Tech Stack: TensorFlow, PyTorch, LangChain, Hugging Face_  
 - Designed **AI/ML & NLP pipelines** for personalized health guidance.  
-- Delivered scalable and compliant AI solutions for real-world healthcare applications.  
+- Delivered scalable, compliant AI solutions for healthcare ecosystems.  
 
 **Infosys Internship (Remote | Ongoing)**  
 _Tech Stack: Python, TensorFlow, Scikit-learn, Flask_  
-- Worked on **enterprise-scale AI/ML systems**, focusing on deployment and scalability.  
-- Implemented **production-ready AI workflows** following software engineering best practices.  
+- Worked on **enterprise-scale AI/ML systems** and scalable workflows.  
+- Implemented **production-grade AI** aligned with software best practices.  
 
 **Research Intern – NIT Warangal (May 2024 – July 2024)**  
 _Tech Stack: Python, TensorFlow, NumPy, OpenAI Gym_  
-- Implemented **actor–critic (DDPG)** models for SFC deployment and optimization.  
-- Designed modular RL workflows and documented research processes for reproducibility.  
+- Built **DDPG actor–critic models** for SFC optimization and performance gain.  
+- Developed reproducible RL pipelines and detailed documentation.  
 
 ---
 
 ## 💻 Tech Stack
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangChain-121212?style=flat&logo=chainlink&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,fastapi,flask,langchain,huggingface,docker,streamlit,vscode,git,github,gcp&theme=light" />
 </p>
 
 ---
@@ -68,20 +66,20 @@ _Tech Stack: Python, TensorFlow, NumPy, OpenAI Gym_
 ## 🚀 Projects
 
 - 🔹 [**Agentic RAG-based Bank Form Intelligence System**](https://github.com/Shravinya/Agentic-Rag)  
-  *Python • LangChain • LLaMA • Vision AI • FAISS • Streamlit • Docker • CI/CD*  
-  - Built an **Agentic RAG pipeline** to autonomously extract and validate 67+ bank forms.  
-  - Integrated **Vision AI + LLMs** for real-time policy compliance and scalable deployment.  
+  *LangChain • LLaMA • Vision AI • FAISS • Streamlit • Docker • CI/CD*  
+  - Built an **autonomous RAG system** validating 67+ bank forms with Vision AI and LLMs.  
+  - Real-time compliance verification with scalable deployment pipelines.  
 
 - 🔹 [**Intelligent Algorithm Recommender & Optimizer**](https://github.com/Shravinya/Applicative)  
-  *Python • Scikit-learn • TensorFlow • Flask • Docker*  
-  - Developed a model achieving **92% accuracy** in predicting optimal sorting algorithms.  
-  - Deployed interactive **Flask dashboard** with adaptive optimization visualization.  
+  *Scikit-learn • TensorFlow • Flask • Docker*  
+  - Achieved **92% accuracy** in dynamic sorting optimization predictions.  
+  - Built an adaptive visualization dashboard with real-time model responses.  
 
 - 🔹 [**BudgetWise: AI-based Expense Forecasting Tool**](https://github.com/Shravinya/BudgetWise-AI-based-Expense-Forecasting-Tool)  
-  - Designed a forecasting model for **financial planning and expense optimization**.  
+  - Built an intelligent **financial forecasting system** for expense management.  
 
 - 🔹 [**Reinforcement Learning: DDPG for SFC Optimization**](https://github.com/Shravinya/Reinforcement-learning)  
-  - Implemented **Deep Deterministic Policy Gradient (DDPG)** models for network optimization.  
+  - Implemented **Deep Deterministic Policy Gradient (DDPG)** for network optimization.  
 
 ---
 
@@ -97,7 +95,7 @@ _Tech Stack: Python, TensorFlow, NumPy, OpenAI Gym_
 
 - 📰 Published paper — *“XAI-enabled Deep Learning for PCOS Detection”* at **IEEE (2025)**  
 - 🧾 Patent Holder — *“Adaptive Nanotechnology-Based Climate Sensor Network”*  
-- 🥇 Ranked among **Top 50 (National Level)** in StudentTribe Hackathon for *“Wealth Map”*  
+- 🥇 Top 50 (National) – **StudentTribe Hackathon** for *“Wealth Map”*  
 - 🧠 Solved **136+ DSA problems** on Coding Ninjas Code360  
 - 🏅 Finalist - SIP Poster Competition, Woxsen  
 - 💪 Contributor - **GirlScript Summer of Code (GSSoC 2025)**  
@@ -115,8 +113,8 @@ _Tech Stack: Python, TensorFlow, NumPy, OpenAI Gym_
 ## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=shravinya&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=shravinya&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=shravinya&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=shravinya&theme=radical" />
 </p>
 
 <p align="center">
@@ -124,7 +122,15 @@ _Tech Stack: Python, TensorFlow, NumPy, OpenAI Gym_
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shravinya&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shravinya&theme=radical" />
+</p>
+
+---
+
+## 💡 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shravinya&theme=dracula&margin-w=10&margin-h=10&no-frame=true&row=1&column=7" />
 </p>
 
 ---
@@ -132,7 +138,15 @@ _Tech Stack: Python, TensorFlow, NumPy, OpenAI Gym_
 ## 📊 Most Used Languages 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shravinya&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shravinya&layout=compact&theme=radical"/>
+</p>
+
+---
+
+## 🌟 Dynamic Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Empowering+humans+through+intelligent+machines+that+learn+and+adapt.">
 </p>
 
 ---
