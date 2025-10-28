@@ -50,17 +50,17 @@ I’m an **AI/ML Engineer and Research Intern** passionate about building **inte
 
 ## 💼 Experience  
 
-**AI/ML Engineer Intern — Avijo **  
+**AI/ML Engineer Intern — Avijo**  
 _Tech Stack: TensorFlow, PyTorch, LangChain, Hugging Face_  
 - Designed **AI/ML & NLP pipelines** for personalized healthcare.  
 - Built scalable, production-ready **LLM modules** using LangChain & RAG patterns.  
 
-**Research Intern — NIT Warangal **  
+**Research Intern — NIT Warangal**  
 _Tech Stack: Python, TensorFlow, OpenAI Gym, NumPy_  
 - Implemented **DDPG actor–critic reinforcement learning** for network optimization.  
 - Designed **modular RL pipelines** improving clarity and reproducibility.  
 
-**Infosys Internship =**  
+**Infosys Internship**  
 _Tech Stack: Python, TensorFlow, Flask, Scikit-learn_  
 - Developed **enterprise-level AI systems** applying software engineering best practices.  
 - Integrated **end-to-end ML workflows** for scalable model deployment.  
