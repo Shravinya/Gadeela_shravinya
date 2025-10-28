@@ -96,6 +96,7 @@ _Tech Stack: Python, TensorFlow, NumPy, OpenAI Gym_
 ## 🏆 Achievements
 
 - 📰 Published paper — *“XAI-enabled Deep Learning for PCOS Detection”* at **IEEE (2025)**  
+- 🧾 Patent Holder — *“Adaptive Nanotechnology-Based Climate Sensor Network”*  
 - 🥇 Ranked among **Top 50 (National Level)** in StudentTribe Hackathon for *“Wealth Map”*  
 - 🧠 Solved **136+ DSA problems** on Coding Ninjas Code360  
 - 🏅 Finalist - SIP Poster Competition, Woxsen  
@@ -111,12 +112,27 @@ _Tech Stack: Python, TensorFlow, NumPy, OpenAI Gym_
 
 ---
 
+## 📊 GitHub Stats & Activity
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=shravinya&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=shravinya&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=shravinya&theme=react-dark&hide_border=true&area=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shravinya&theme=tokyonight" />
+</p>
+
+---
+
 ## 📊 Most Used Languages 
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Jupyter_Notebook-97%25-orange?logo=jupyter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-2.7%25-blue?logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-0.2%25-yellow?logo=javascript&logoColor=black"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shravinya&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
