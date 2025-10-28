@@ -1,4 +1,3 @@
-# Gadeela_shravinya
 
 <!-- 
 ✨ Clean, professional, and dynamic profile README showcasing AI/ML expertise.
